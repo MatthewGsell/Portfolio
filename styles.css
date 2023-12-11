@@ -100,7 +100,12 @@ a:hover {
     color: blueviolet;
 }
 
-#share:hover {
+
+.share:hover {
+    color: blueviolet;
+    cursor: pointer;
+}
+.live:hover {
     color: blueviolet;
     cursor: pointer;
 }
